@@ -1,4 +1,4 @@
-# foodsby
+# Foodsby
 
 > A Vue.js project
 
