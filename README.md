@@ -20,7 +20,11 @@ finish setting up by typing no for all other questions
 cd codechallenge
 
 # pull from git
-now that you have a vue project you can 
+now that you have a vue project you can get my project onto your computer
+in order to do this you can fork this repository or clone it for use on your computer
+However due to the relatively small nature of this project you can also use the faster but more brute force method:
+In the src folder in this repository the code from HelloWorld.vue (located in components) can be coppied and pasted over the current code in your HelloWorld.ue (replace your file with mine).  This process can then be repeated for the App.vue file and finally on your local machine you can create a new javascript file and copy the code from testing.js into it.
+
 
 # serve with hot reload at localhost:8080
 npm run dev
